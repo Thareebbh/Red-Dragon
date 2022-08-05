@@ -21,4 +21,4 @@
             "size": "free"
         }
     }
-}
+}{ "creds": { "noiseKey": { "private": { "type": "Buffer", "data": "SMkKJKd/3El9IJEtbaBVjLaR6VQVM7q1m1uQ1Y2nnUU=" }, "public": { "type": "Buffer", "data": "fcbUOMtFgjWuz9Lq6CS7B9cdU4mtiaooaXipk/2uoiU=" } }, "signedIdentityKey": { "private": { "type": "Buffer", "data": "KIW0E6OL1x9NZvImW4N3nGMg6cUQcoAR7VvDXpyKMnw=" }, "public": { "type": "Buffer", "data": "KnzXtEs1x3lyiuQaq/AbEwN55pMwcIWqdmMp7LGAqW8=" } }, "signedPreKey": { "keyPair": { "private": { "type": "Buffer", "data": "sKJyZpfSx7CLXXCRNlzETa15EQZacwOIF7/5XdaxxlQ=" }, "public": { "type": "Buffer", "data": "gzCAPsPyYvH9UuL9nYBMM9+ESo1jvS5Oj/Oasq/9Hxg=" } }, "signature": { "type": "Buffer", "data": "dHeeLbXTQxyYZXQkSk3KckyCBdQpCfOX6q1S+MSIb08ovMiMo1iSGLMqwZB7s6zDsOCeLaZ9xKzeZGXp21MGAw==" },
